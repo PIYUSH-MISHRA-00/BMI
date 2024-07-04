@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_your_height_in_in">Enter your Height(in In)</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in Ft)</string>
+    <string name="enter_your_weight">Enter your weight</string>
+</resources>
